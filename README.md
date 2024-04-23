@@ -2,7 +2,7 @@
 
 The `Ruoppolo_report.pdf` contains all the details for deployment. Please refer to it. 
 
-I paste the `deployment` section here.
+I paste the `Setup` section here.
 
 ## Setup
 
