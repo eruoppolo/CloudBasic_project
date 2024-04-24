@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Nome del container Docker di Nextcloud
-NEXTCLOUD_CONTAINER_NAME="cloud-app-1"
+NEXTCLOUD_CONTAINER_NAME="nextcloud"
 
 # Password predefinita per tutti gli utenti
 DEFAULT_PASSWORD='test_password1234!'
