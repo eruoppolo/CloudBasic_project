@@ -40,9 +40,3 @@ services:
       - NEXTCLOUD_ADMIN_PASSWORD=admin
     networks:
       - nextcloud
-
-    volumes:
-      - ./locust-tasks:/locust-tasks
-      - ./test_files:/test-data
-    networks:
-      - nextcloud
